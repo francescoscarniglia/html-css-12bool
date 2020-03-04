@@ -2,3 +2,16 @@
   box-sizing: border-box;
   margin: 0;
 }
+
+#main-header {
+  background: rgba(230, 112, 9, .9);
+  height: 100px;
+}
+
+#wall {
+  background: #fff;
+}
+
+#green {
+  background: green;
+}
