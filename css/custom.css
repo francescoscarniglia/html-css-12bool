@@ -4,12 +4,17 @@
 }
 
 #main-header {
-  background: rgba(230, 112, 9, .9);
+  background: rgb(121, 61, 0);
   height: 100px;
 }
 
-#wall {
-  background: #fff;
+#window {
+
+  background: yellow;
+}
+
+#door {
+  background: #000;
 }
 
 #green {

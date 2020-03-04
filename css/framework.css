@@ -18,11 +18,7 @@
   /* padding: 16px; */
 
   /* debug */
-
   background: rgb(255,131,23);
-  background: -webkit-linear-gradient(bottom, rgba(255,131,23,1) 0%, rgba(230,112,9,0.053658963585434205) 100%);
-  background: -o-linear-gradient(bottom, rgba(255,131,23,1) 0%, rgba(230,112,9,0.053658963585434205) 100%);
-  background: linear-gradient(to top, rgba(255,131,23,1) 0%, rgba(230,112,9,0.053658963585434205) 100%);
   border: 8px solid gray;
   padding: 24px;
 }
